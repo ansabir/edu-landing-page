@@ -1,3 +1,3 @@
 # Hello
 
-## [Live](' https://ansabir.github.io/edu-landing-page/')
+## [Live](https://ansabir.github.io/edu-landing-page/)
